@@ -1,5 +1,7 @@
-layout: page
+---
+layout: home
 title: "Top Page"
-permalink: /https://alcorum.github.io/
+permalink: /
+---
 
 hello world!
