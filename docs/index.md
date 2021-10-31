@@ -6,7 +6,7 @@ permalink: /
 
 hello world!
 
-{% include navigation.md %}
+{% include navigation.html %}
 
 <ul>
   {% for post in site.posts %}
